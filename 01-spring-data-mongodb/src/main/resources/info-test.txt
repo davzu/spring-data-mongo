@@ -1,0 +1,16 @@
+http://localhost:8080/api/expense
+http://localhost:8080/api/expense/Netflix
+http://localhost:8080/api/expense/64cd44a38ef3b8545e77bcc8
+
+{
+    "expenseName": "Netflix",
+    "expenseCategory": "ENTERTAINMENT",
+    "expenseAmount": 10
+}
+
+{
+    "id": "64cd3bab23844004172d27b0",
+    "expenseName": "Netflix",
+    "expenseCategory": "ENTERTAINMENT",
+    "expenseAmount": 15
+}
